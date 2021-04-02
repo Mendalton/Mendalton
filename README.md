@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 🔭 I’m currently working on ... Python and C++ stuff <br>
 🌱 I’m currently learning ... C++ and possibily later, Java
+:Lord_Mendalton:
